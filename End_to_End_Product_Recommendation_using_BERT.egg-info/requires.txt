@@ -1,0 +1,5 @@
+numpy
+pandas
+transformers
+sentence_transformers
+seaborn

@@ -1,0 +1,16 @@
+setup.py
+End_to_End_Product_Recommendation_using_BERT.egg-info/PKG-INFO
+End_to_End_Product_Recommendation_using_BERT.egg-info/SOURCES.txt
+End_to_End_Product_Recommendation_using_BERT.egg-info/dependency_links.txt
+End_to_End_Product_Recommendation_using_BERT.egg-info/requires.txt
+End_to_End_Product_Recommendation_using_BERT.egg-info/top_level.txt
+src/__init__.py
+src/exception.py
+src/logger.py
+src/components/__init__.py
+src/components/data_ingest.py
+src/components/data_preprocessor.py
+src/components/model_training.py
+src/piplelines/__init__.py
+src/piplelines/predictions_pipeline.py
+src/piplelines/training_pipeline.py
